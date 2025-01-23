@@ -1,3 +1,3 @@
-# Solution proposée au puzzle The Descent de CodinGame
+# Solution proposée au puzzle Temperatures de CodinGame
 
-https://www.codingame.com/ide/puzzle/temperatures
+https://www.codingame.com/training/easy/temperatures
